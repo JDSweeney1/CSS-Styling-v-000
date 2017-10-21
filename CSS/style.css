@@ -49,7 +49,7 @@ figcaption {
   text-decoration: none;
 }
 
-#dettails a:hover {
+#details a:hover {
   color: black;
   text-decoration: underline;
 }
