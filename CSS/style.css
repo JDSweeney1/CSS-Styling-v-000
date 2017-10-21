@@ -1,0 +1,15 @@
+/* This is a comment! */
+
+/* CSS syntax:
+
+selector {
+  Poperty: value;
+  Property: value;
+}
+
+*/
+
+p {
+  font-size: 16px
+  line-height: 1.5em;
+}
